@@ -4,3 +4,5 @@ All notable changes to this project will be documented in this file.
 ## [2024-07-21]
 - 建立仓库并描述了该仓库将更新的内容
 
+- 添加Veins安装教程
+

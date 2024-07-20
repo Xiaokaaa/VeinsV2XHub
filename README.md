@@ -6,3 +6,14 @@
 - 车联网V2R/V2V身份认证时延等数据采集
 - 车联网共识机制、信誉机制算法实现
 
+
+## 前言
+平台的一些基础知识参考手册👉[【Veins_SUMO_OMNeTpp】](https://github.com/Xiaokaaa/Veins_SUMO_OMNeTpp)。
+
+
+## Veins安装教程
+- 👉[简易安装教程](Tutorials/Veins_Installation_Tutorial.md)
+- Veins自定义版本安装，可参考👉[Ubuntu 下 Veins5.2 安装教程](https://github.com/Yrongovo/Veins5.2-Ubuntu18.04-Installation-Guide)
+
+
+## error及解决方案汇总
