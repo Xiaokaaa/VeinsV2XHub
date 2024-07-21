@@ -77,3 +77,6 @@
 
 ## Veins自定义版本安装教程
 随着研究的不断深入，上述版本可能并不适用所有项目，所以需要自定义Veins版本安装。安装教程可参考👉[Ubuntu 下 Veins5.2 安装教程](https://github.com/Yrongovo/Veins5.2-Ubuntu18.04-Installation-Guide)，这里就不再赘述了。
+
+
+至此，本教程结束。:clap: :+1:
