@@ -39,5 +39,5 @@
 <img src="images/OMNeTpp_Project_Import_Guide_images/import10.png" alt="Alt text" style="width: 90%;">
 </div>
 
-至此，本教程结束。:clap: :+1:
+至此，本教程结束。👏 👍
 

@@ -25,7 +25,7 @@
 - 后车接收到消息后怕追尾相信了前车，立马跟着刹车。
 
 ### 核心代码
-我们直接在veins示例代码框架下在`veins/src/veins/moTraCIDemo11p.cc`
+我们直接在veins示例代码框架下`TraCIDemo11p.cc`添加以下代码
 ```cpp
 // 车辆接收消息处理函数
 void TraCIDemo11p::onWSM(BaseFrame1609_4* frame)
