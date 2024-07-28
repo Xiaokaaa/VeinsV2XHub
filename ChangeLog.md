@@ -11,3 +11,6 @@ All notable changes to this project will be documented in this file.
 ## [2024-07-23]
 - 创建了项目：一种车联网女巫攻击实现方法
 
+## [2024-07-29]
+- 补充了项目：一种车联网女巫攻击实现方法
+
